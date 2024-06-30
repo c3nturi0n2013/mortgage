@@ -1,8 +1,8 @@
 {
-  "p": 100000,
-  "rate":5,
-  "years":20,
-  "dp":20000,
-  "monthly": 530,
-  "remaining": null
+    "p": 100000,
+    "rate": 5,
+    "years": 20,
+    "dp": 20000,
+    "monthly": 530,
+    "remaining": null
 }
